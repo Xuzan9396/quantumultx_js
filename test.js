@@ -1,7 +1,7 @@
 /*******************************
 
 [rewrite_local]
-^http[s]?:\/\/newsapi.zankhana.ltd\/\/video\/registryUser.+$ url script-response-body https://raw.githubusercontent.com/Xuzan9396/quantumultx_js/main/test.js
+^http[s]?:\/\/newsapi.zankhana.ltd\/yekong_api.+$ url script-response-body https://raw.githubusercontent.com/Xuzan9396/quantumultx_js/main/test.js
 [mitm] 
 hostname = newsapi.zankhana.ltd
 
