@@ -1,7 +1,7 @@
 /*******************************
 
 [rewrite_local]
-^http[s]?:\/\/uu.tuanyougou.com\/\/video\/registryUser.+$ url script-response-body https://raw.githubusercontent.com/hhse/Mul4hong/master/Ceshi.js
+^http[s]?:\/\/uu.tuanyougou.com\/\/video\/registryUser.+$ url script-response-body https://raw.githubusercontent.com/Xuzan9396/quantumultx_js/main/test.js
 [mitm] 
 hostname = *.tuanyougou.*
 
